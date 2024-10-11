@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Stephen's Firefox Theme",
+    "version": "0.1.0",
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "firefox-theme@stephenli.ca"
+        }
+    },
+
+    "theme": {
+        "colors":{
+            "toolbar": "#FFFFFF",
+            "toolbar_text":"#000000",
+            "frame": "#000000",
+            "tab_background_text": "#CCCCCC",
+            "toolbar_field": "#FFFFFF",
+            "toolbar_field_text": "#000000",
+            "tab_line": "#000000",
+            "popup": "#FFFFFF",
+            "popup_text": "#000000"
+        }
+    }
+}

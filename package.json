@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "scripts": {
+        "clean": "rm -rf ./dist ./dist-build",
+        "build": "yarn clean && web-ext build --source-dir ./src --artifacts-dir ./dist-build --filename firefox-theme.zip --overwrite-dest"
+    },
+    "devDependencies": {
+        "web-ext": "^8.1.0"
+    }
+}
