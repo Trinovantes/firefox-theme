@@ -19,7 +19,9 @@
             "toolbar_field_text": "#000000",
             "tab_line": "#000000",
             "popup": "#FFFFFF",
-            "popup_text": "#000000"
+            "popup_text": "#000000",
+            "sidebar": "#FFFFFF",
+            "sidebar_text":"#000000"
         }
     }
 }
